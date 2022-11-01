@@ -11,4 +11,4 @@
 |  Bải tập 2  | https://colab.research.google.com/drive/1tI2Z0xX6ubyU-qp-7P5zTGI0m5JhZ2AJ  |
 |  Bài tập 3  | https://colab.research.google.com/drive/1SpcFnTrKFXUK-vthuoli5vBYzfMJjdTL  | 
 | ============|=========================================================================== |
-| Assignment  | https://colab.research.google.com/drive/18MOUBm7sXkZUZWKBaoLIcVzr-EEscjUY  |
+| Assignment  | https://colab.research.google.com/drive/18MOUBm7sXkZUZWKBaoLIcVzr-EEscjUY?usp=share_link  |

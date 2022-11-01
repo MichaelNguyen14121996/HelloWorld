@@ -3,6 +3,8 @@
 ### Môn học: Python for Engineering 
 ### Giảng viên: PGS TS Nguyễn Thanh Hiền
 ### Học viên: Nguyễn Bảo Nguyên
+### Mã học viên: 22MSE23075
+### Email: nguyen22mse23075@fsb.edu.vn
 ****************************************
 
 |  Bài tập    | Link Google Colab                                                                             |

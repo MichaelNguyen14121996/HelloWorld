@@ -1,6 +1,6 @@
-# Assignment Submission
+# Assignment Submission PPR501.2
 ****************************************
-### Môn học: Python for Engineering 
+### Môn học: Python for Engineers
 ### Giảng viên: PGS TS Nguyễn Thanh Hiền
 ### Học viên: Nguyễn Bảo Nguyên
 ### Mã học viên: 22MSE23075
